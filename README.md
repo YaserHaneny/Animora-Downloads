@@ -2,7 +2,7 @@
 
 Animal care, rescue and adoption platform.
 
-[Download the signed Android APK](https://github.com/YaserHaneny/Animora-Downloads/releases/tag/v1.1.0)
+[Download the signed Android APK](https://animora-api.84-13-129-229.sslip.io/storage/downloads/Animora-1.1.0.apk)
 
 This repository distributes compiled Android releases only. Application source code and signing credentials are maintained separately.
 
