@@ -1,13 +1,9 @@
-# Animora for Android
+# Animora Android downloads
 
-Animal care, rescue and adoption platform.
+[Download Animora 1.2.0](https://animora-api.84-13-129-229.sslip.io/storage/downloads/Animora-1.2.0.apk) · [Release notes and checksum](https://github.com/YaserHaneny/Animora-Downloads/releases/tag/v1.2.0)
 
-[Download the signed Android APK](https://animora-api.84-13-129-229.sslip.io/storage/downloads/Animora-1.1.0.apk)
-
-This repository distributes compiled Android releases only. Application source code and signing credentials are maintained separately.
-
-The current release connects to the Animora demo environment. Demo accounts are provided privately by the owner. Wallet balances are virtual; this release does not process real payments. Push notifications are currently disabled.
-
-Install the APK on an Android device that meets the release requirements. SHA-256 checksums are supplied with each release. Keep future updates signed with the same certificate.
+Compiled Android releases only. Application source and signing credentials are maintained privately. Install over an existing Animora version to keep app identity; demo accounts are shared privately by the owner.
 
 [Management dashboard](https://animora-dashboard.vercel.app)
+
+Wallet balances are virtual. In-app notifications are available; Firebase push is disabled. SMTP verification uses the sender configured by the administrator.
